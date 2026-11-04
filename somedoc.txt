@@ -1,3 +1,4 @@
 qwerty
 asdfg
 zxcvbn
+New_line_after_git_clone
